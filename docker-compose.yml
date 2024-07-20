@@ -1,0 +1,6 @@
+﻿services:
+  hawy.api:
+    image: hawy.api
+    build:
+      context: .
+      dockerfile: Hawy.API/Dockerfile

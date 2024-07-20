@@ -1,0 +1,6 @@
+@Hawy.API_HostAddress = http://localhost:5043
+
+GET {{Hawy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
